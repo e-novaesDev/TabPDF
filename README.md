@@ -1,4 +1,4 @@
-# 📑 TabPDF `v1.0.0`
+# 📄 TabPDF `v1.0.0`
 
 An open-source, browser-based PDF editor built with pure HTML, CSS, and JavaScript, created with the help of Claude AI.
 
@@ -7,6 +7,10 @@ An open-source, browser-based PDF editor built with pure HTML, CSS, and JavaScri
 * **Current:** The user interface is currently available only in **Brazilian Portuguese (PT-BR)**.
 
 > **Future:** Full support for **English (EN)** is planned for upcoming versions.
+
+### 💻 Live Demo
+Want to test it right now? You don't need to install anything! 
+👉 **[Try the online version here](https://e-novaesdev.github.io/TabPDF/)**
 
 ---
 
@@ -17,6 +21,11 @@ An open-source, browser-based PDF editor built with pure HTML, CSS, and JavaScri
 * **100% Offline Capability:** Once you clone the repository, it works fully offline without any internet connection.
 * **Privacy Focused:** Your files are processed entirely client-side (inside your browser)—nothing is uploaded to a server.
 * **Essential Tools:** Text editing, page rotation, and simple annotations.
+
+### 📚 Libs Used
+
+* **PDF.js (v3.11.174)** - Mozilla's library used for rendering and viewing PDF pages in the browser.
+* **pdf-lib (v1.17.1)** - Used for modifying, creating, and saving PDF documents client-side.
 
 ## ⚠️ Current Limitations
 
